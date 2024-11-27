@@ -113,11 +113,3 @@ Utilize o Postman para testar os endpoints:
     ```
 
 - **Deletar Carro**: `DELETE /carros/{id}`
-
----
-
-## 📝 Comandos Úteis
-
-- **Iniciar o projeto**:
-  ```bash
-  ./gradlew bootRun
